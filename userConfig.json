@@ -1,11 +1,11 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "88MmqgX2HyCEdNVBR2g7yGsueBSFrVCbbZ2ZaRRLqGWb"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "xApiKey": "mw_NtbVC2V3d31dAXseO9hfZJSJmy4cSOkNgb6",
+  "serviceFee": 4,
+  "currencyOption": "SOL",
+  "name": "kr market",
+  "logo": "https://collections.mirrorworld.fun/1678117651633-images (3).jpg",
+  "network": "devnet"
 }
